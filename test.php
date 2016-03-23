@@ -1,3 +1,3 @@
 <?php
-	echo "suixin";
+	echo "suixin2";
 ?>
