@@ -1,3 +1,3 @@
 <?php
-	echo "suixin2";
+	echo "suixin,koreyoshi";
 ?>
