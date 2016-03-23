@@ -1,4 +1,4 @@
 <?php
-	echo "suixin,koreyoshi123";
+	echo "suixin,koreyoshi";
 ?>
 123
